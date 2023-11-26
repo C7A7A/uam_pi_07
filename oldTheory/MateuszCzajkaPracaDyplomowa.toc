@@ -1,0 +1,37 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{\numberline {1}HTTP, API, REST}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}HTTP}{5}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Własności HTTP}{5}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}HTTPS}{6}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Metody HTTP}{6}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Kody odpowiedzi HTTP}{7}{subsection.1.1.4}%
+\contentsline {section}{\numberline {1.2}API}{8}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Architektura REST}{8}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}REST API}{9}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Zasady REST API}{9}{subsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.2.1}Spring}{11}{subsubsection.1.3.2.1}%
+\contentsline {subsubsection}{\numberline {1.3.2.2}Ruby on Rails}{12}{subsubsection.1.3.2.2}%
+\contentsline {chapter}{\numberline {2}Tworzenie REST API}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Dobre praktyki}{15}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Dokumentacja}{15}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}Interaktywna dokumentacja}{16}{subsubsection.2.1.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Wersjonowanie}{16}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Sortowanie, filtrowanie i wyszukiwanie}{16}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Zwracanie zasobów}{18}{subsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.4.1}Spring}{18}{subsubsection.2.1.4.1}%
+\contentsline {subsubsection}{\numberline {2.1.4.2}Ruby on Rails}{18}{subsubsection.2.1.4.2}%
+\contentsline {subsection}{\numberline {2.1.5}JSON czy XML?}{19}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Błędy}{19}{subsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.6.1}Ruby on Rails}{20}{subsubsection.2.1.6.1}%
+\contentsline {subsubsection}{\numberline {2.1.6.2}Spring}{21}{subsubsection.2.1.6.2}%
+\contentsline {subsection}{\numberline {2.1.7}Testowanie}{22}{subsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.7.1}Plan testowania}{23}{subsubsection.2.1.7.1}%
+\contentsline {subsubsection}{\numberline {2.1.7.2}Kategorie scenariuszy testowych}{23}{subsubsection.2.1.7.2}%
+\contentsline {section}{\numberline {2.2}Uwierzytelnianie i autoryzacja}{24}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Uwierzytelnianie}{24}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}OAuth}{25}{subsubsection.2.2.1.1}%
+\contentsline {subsection}{\numberline {2.2.2}Autoryzacja}{26}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}plan tworzenia serwisu Restful \cite {RESTfulWebServices}}{26}{section.2.3}%
+\contentsline {chapter}{Zakończenie}{28}{Item.45}%
+\contentsline {chapter}{Spis tabel i rysunków}{29}{chapter*.3}%
+\contentsline {chapter}{Bibliografia}{30}{appendix*.6}%

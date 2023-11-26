@@ -1,0 +1,13 @@
+<div id="<%= dom_id company %>">
+  <p>
+    <strong>Name:</strong>
+    <%= company.name %>
+  </p>
+
+  <p> Notes: </p>
+  <% for note in company.notes %>
+    <ul>
+      <li> <%= note.content %> </li>
+    </ul>
+  <% end %>
+</div>

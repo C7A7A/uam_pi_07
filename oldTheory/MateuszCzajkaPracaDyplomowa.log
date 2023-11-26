@@ -1,0 +1,721 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.12.11)  13 JAN 2023 20:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MateuszCzajkaPracaDyplomowa.tex
+(./MateuszCzajkaPracaDyplomowa.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-10> (./ociamthesis.cls
+Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
+(/usr/share/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+))
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen141
+\l@unhyphenated=\language87
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+(/usr/share/texmf-dist/tex/generic/babel-polish/polish.ldf
+Language: polish 2022/03/12 1.3 Babel support for Polish
+Package babel Info: Making " an active character on input line 101.
+))
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen142
+\Hy@linkcounter=\count196
+\Hy@pagecounter=\count197
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count198
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count199
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen143
+
+(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count266
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+
+(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count267
+\c@Item=\count268
+\c@Hfootnote=\count269
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+
+(/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count270
+\c@bookmark@seq@number=\count271
+
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen146
+\ar@mcellbox=\box50
+\extrarowheight=\dimen147
+\NC@list=\toks18
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box51
+)
+\everycr=\toks19
+\minrowclearance=\skip52
+)
+\rownum=\count272
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count273
+\float@exts=\toks20
+\float@box=\box52
+\@float@everytoks=\toks21
+\@floatcapt=\box53
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box54
+)
+(./MateuszCzajkaPracaDyplomowa.aux (./abstract.aux) (./chapter1.aux)
+(./chapter2.aux) (./conclusions.aux) (./appendix1.aux))
+\openout1 = `MateuszCzajkaPracaDyplomowa.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count275
+\scratchdimen=\dimen148
+\scratchbox=\box55
+\nofMPsegments=\count276
+\nofMParguments=\count277
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen149
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 29.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count281
+)
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
+
+(./MateuszCzajkaPracaDyplomowa.out) (./MateuszCzajkaPracaDyplomowa.out)
+\@outlinefile=\write3
+\openout3 = `MateuszCzajkaPracaDyplomowa.out'.
+
+Package epstopdf Info: Source file: <uam_logo.eps>
+(epstopdf)                    date: 2022-10-29 15:12:13
+(epstopdf)                    size: 5561358 bytes
+(epstopdf)             Output file: <uam_logo-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-10-29 15:13:19
+(epstopdf)                    size: 178056 bytes
+(epstopdf)             Command: <repstopdf --outfile=uam_logo-eps-converted-to.
+pdf uam_logo.eps>
+(epstopdf)             \includegraphics on input line 45.
+Package epstopdf Info: Output file is already uptodate.
+<uam_logo-eps-converted-to.pdf, id=148, 426.59375pt x 497.86pt>
+File: uam_logo-eps-converted-to.pdf Graphic file (type pdf)
+<use uam_logo-eps-converted-to.pdf>
+Package pdftex.def Info: uam_logo-eps-converted-to.pdf  used on input line 45.
+(pdftex.def)             Requested size: 91.04881pt x 106.25534pt.
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./uam_logo-eps-converted-t
+o.pdf>] (./MateuszCzajkaPracaDyplomowa.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2
+
+])
+\tf@toc=\write4
+\openout4 = `MateuszCzajkaPracaDyplomowa.toc'.
+
+ [3]
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex)
+[4
+
+
+]
+\openout2 = `chapter1.aux'.
+
+ (./chapter1.tex
+Rozdzia\l  1.
+[5
+
+
+
+
+] [6] [7] [8] [9]
+Overfull \hbox (25.65056pt too wide) in paragraph at lines 108--122
+[][]
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+29.
+(/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \hbox (47.57536pt too wide) in paragraph at lines 131--131
+ []\T1/cmtt/m/n/12 PATCH /companies/:company/notes/:note z parametrem {"archive
+d": true}[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+[10
+pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.140 					
+           
+pdfTeX warning (ext4): destination with the same identifier (name{table.1.2}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.140 					
+           ]
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+<./images/spring//spring_endpoints.png, id=274, 414.04688pt x 526.96875pt>
+File: ./images/spring//spring_endpoints.png Graphic file (type png)
+<use ./images/spring//spring_endpoints.png>
+Package pdftex.def Info: ./images/spring//spring_endpoints.png  used on input l
+ine 156.
+(pdftex.def)             Requested size: 289.83083pt x 368.8756pt.
+
+Overfull \hbox (5.09087pt too wide) in paragraph at lines 153--159
+\T1/cmr/m/n/12 Endpointy do ope-ra-cji CRUD przy-go-to-wane przy po-mocy Spring
+a. Company-controller
+ []
+
+[11]
+<./images/RoR//ror_rails_routes.png, id=280, 564.60938pt x 219.82124pt>
+File: ./images/RoR//ror_rails_routes.png Graphic file (type png)
+<use ./images/RoR//ror_rails_routes.png>
+Package pdftex.def Info: ./images/RoR//ror_rails_routes.png  used on input line
+ 171.
+(pdftex.def)             Requested size: 451.68811pt x 175.85722pt.
+
+Overfull \hbox (18.06812pt too wide) in paragraph at lines 171--172
+ [] 
+ []
+
+[12
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.175 	
+        <./images/spring//spring_endpoints.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+<./images/RoR//ror_format_json.png, id=287, 313.17pt x 228.10219pt>
+File: ./images/RoR//ror_format_json.png Graphic file (type png)
+<use ./images/RoR//ror_format_json.png>
+Package pdftex.def Info: ./images/RoR//ror_format_json.png  used on input line 
+186.
+(pdftex.def)             Requested size: 250.53633pt x 182.48198pt.
+[13
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.190 	
+        <./images/RoR//ror_rails_routes.png (PNG copy)>]) [14
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.3}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.53 \include{chapter1}
+                        <./images/RoR//ror_format_json.png (PNG copy)>]
+\openout2 = `chapter2.aux'.
+
+
+(./chapter2.tex
+Rozdzia\l  2.
+[15
+
+
+
+
+] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Overfull \hbox (46.41965pt too wide) in paragraph at lines 69--69
+ []\T1/cmtt/m/n/12 GET /companies/:company/notes?state=open&sort=updated_at&que
+ry="REST API"[] 
+ []
+
+[17]
+<./images/spring//spring_create_method_response.png, id=318, 349.305pt x 112.16
+907pt>
+File: ./images/spring//spring_create_method_response.png Graphic file (type png
+)
+<use ./images/spring//spring_create_method_response.png>
+Package pdftex.def Info: ./images/spring//spring_create_method_response.png  us
+ed on input line 91.
+(pdftex.def)             Requested size: 349.30414pt x 112.16878pt.
+<./images/RoR//ror_response.png, id=320, 644.4075pt x 213.04594pt>
+File: ./images/RoR//ror_response.png Graphic file (type png)
+<use ./images/RoR//ror_response.png>
+Package pdftex.def Info: ./images/RoR//ror_response.png  used on input line 100
+.
+(pdftex.def)             Requested size: 386.64748pt x 127.82854pt.
+ [18
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.104 	
+        <./images/spring//spring_create_method_response.png>]
+<./images/theory//error_example.png, id=330, 272.51813pt x 70.01157pt>
+File: ./images/theory//error_example.png Graphic file (type png)
+<use ./images/theory//error_example.png>
+Package pdftex.def Info: ./images/theory//error_example.png  used on input line
+ 118.
+(pdftex.def)             Requested size: 327.02011pt x 84.01344pt.
+ [19
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.122 	
+        <./images/RoR//ror_response.png>]
+<./images/theory//error_validation_example.png, id=339, 377.91188pt x 220.57407
+pt>
+File: ./images/theory//error_validation_example.png Graphic file (type png)
+<use ./images/theory//error_validation_example.png>
+Package pdftex.def Info: ./images/theory//error_validation_example.png  used on
+ input line 126.
+(pdftex.def)             Requested size: 453.49197pt x 264.68755pt.
+
+Overfull \hbox (19.87198pt too wide) in paragraph at lines 126--127
+ [] 
+ []
+
+[20
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.137 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.137 
+       <./images/theory//error_example.png (PNG copy)> <./images/theory//error_
+validation_example.png (PNG copy)>]
+<./images/RoR//ror_error_handling_ann.png, id=346, 644.4075pt x 213.04594pt>
+File: ./images/RoR//ror_error_handling_ann.png Graphic file (type png)
+<use ./images/RoR//ror_error_handling_ann.png>
+Package pdftex.def Info: ./images/RoR//ror_error_handling_ann.png  used on inpu
+t line 140.
+(pdftex.def)             Requested size: 451.08218pt x 149.13113pt.
+
+Overfull \hbox (17.46219pt too wide) in paragraph at lines 140--141
+ [] 
+ []
+
+<./images/RoR//ror_error_name_taken.png, id=347, 185.94469pt x 74.52844pt>
+File: ./images/RoR//ror_error_name_taken.png Graphic file (type png)
+<use ./images/RoR//ror_error_name_taken.png>
+Package pdftex.def Info: ./images/RoR//ror_error_name_taken.png  used on input 
+line 153.
+(pdftex.def)             Requested size: 223.13248pt x 89.43365pt.
+<./images/spring//spring_error_handling.png, id=349, 400.49625pt x 97.86563pt>
+File: ./images/spring//spring_error_handling.png Graphic file (type png)
+<use ./images/spring//spring_error_handling.png>
+Package pdftex.def Info: ./images/spring//spring_error_handling.png  used on in
+put line 164.
+(pdftex.def)             Requested size: 440.54723pt x 107.6525pt.
+
+Overfull \hbox (6.92723pt too wide) in paragraph at lines 164--165
+ [] 
+ []
+
+
+Overfull \hbox (3.62457pt too wide) in paragraph at lines 160--167
+\T1/cmr/m/n/12 W przy-padku Springa nie mo-»emy li-czy¢ na au-to-ma-tycz-nej wy
+-ge-ne-ro-wany kod. Mo»na,
+ []
+
+[21
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.168 	
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.6}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.168 	
+        <./images/RoR//ror_error_handling_ann.png> <./images/RoR//ror_error_nam
+e_taken.png (PNG copy)>]
+<./images/spring//spring_error_postman.png, id=357, 308.65312pt x 65.49469pt>
+File: ./images/spring//spring_error_postman.png Graphic file (type png)
+<use ./images/spring//spring_error_postman.png>
+Package pdftex.def Info: ./images/spring//spring_error_postman.png  used on inp
+ut line 172.
+(pdftex.def)             Requested size: 370.38188pt x 78.5932pt.
+ [22
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.7}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.186 	\begin{itemize}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.8}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.186 	\begin{itemize}
+                       <./images/spring//spring_error_handling.png (PNG copy)> 
+<./images/spring//spring_error_postman.png (PNG copy)>] [23] [24] [25]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 256.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--263
+
+ []
+
+[26]) [27]
+\openout2 = `conclusions.aux'.
+
+ (./conclusions.tex) [28
+
+
+
+
+]
+\openout2 = `appendix1.aux'.
+
+ (./appendix1.tex
+(./MateuszCzajkaPracaDyplomowa.lot)
+\tf@lot=\write5
+\openout5 = `MateuszCzajkaPracaDyplomowa.lot'.
+
+ (./MateuszCzajkaPracaDyplomowa.lof)
+\tf@lof=\write6
+\openout6 = `MateuszCzajkaPracaDyplomowa.lof'.
+
+)
+[29
+
+
+
+
+] (./MateuszCzajkaPracaDyplomowa.bbl) [30
+
+
+
+]
+(./MateuszCzajkaPracaDyplomowa.aux (./abstract.aux) (./chapter1.aux)
+(./chapter2.aux) (./conclusions.aux) (./appendix1.aux))
+Package rerunfilecheck Info: File `MateuszCzajkaPracaDyplomowa.out' has not cha
+nged.
+(rerunfilecheck)             Checksum: A7E59FC15E08C0465FEC5F3FEA4A6DB0;5002.
+ ) 
+Here is how much of TeX's memory you used:
+ 11238 strings out of 478238
+ 177733 string characters out of 5850455
+ 477768 words of memory out of 5000000
+ 29114 multiletter control sequences out of 15000+600000
+ 482099 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,10n,76p,1153b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/t
+exmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/font
+s/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/
+cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx17
+28.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/
+fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sf
+ti1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></us
+r/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on MateuszCzajkaPracaDyplomowa.pdf (30 pages, 751360 bytes).
+PDF statistics:
+ 541 PDF objects out of 1000 (max. 8388607)
+ 467 compressed objects within 5 object streams
+ 141 named destinations out of 1000 (max. 500000)
+ 349 words of extra memory for PDF output out of 10000 (max. 10000000)
+

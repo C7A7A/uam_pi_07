@@ -1,0 +1,40 @@
+	\subsection{Porównanie REST API z innymi architekturami}
+%\setlenght{\arrayulewidth}{1mm}
+
+\begin{table}[H]
+	\begin{tabular}{ |p{2cm}|p{4cm}|p{4cm}|p{4cm}| } 
+		\hline
+		\rowcolor{lightgray}
+		\multicolumn{1}{|c|}{-} & \multicolumn{1}{|c|}{REST} & \multicolumn{1}{|c|}{GraphQL} & \multicolumn{1}{|c|}{RPC} \\
+		\hline
+		Główna idea & Udostępnia dane jako zasoby i używa metod HTTP do operacji CRUD & Język zapytań - klient definiuje strukturę odpowiedzi z serwera & Udostępnia API opare na działaniu metod, klient jest odpowiedzialny za przekazanie metod, nazw i argumentów  \\
+		\hline
+		Używane metody HTTP & GET, POST, PATCH, PUT, DELETE & GET, POST & GET, POST \\
+		\hline
+		Format danych & JSON, XML, HTML, zwykły tekst & JSON & JSON, XML, Protobuf, Thrift, FlatBuffers \\
+		\hline
+		Przykład użycia & GET /users/:id  & query ($id: String!) \{ \newline
+		user(login: $id) \{ \newline
+		name \newline
+		company \newline
+		createdAt \newline
+		\} \newline
+		\} & GET /users.get?id=:id \\
+		\hline
+		Przypadki użycia & Do API, które używają opercji CRUD & Kiedy potrzeba dużej elastyczności w tworzeniu zapytań i istnieje duża złożoność między obiektami &   API, które oparte są na wielu akcjach, duża wydajność w przypadku wewnętrznej komunikacji w systemach z wieloma mikro serwisami \\
+		\hline
+	\end{tabular}
+	\caption{\label{tab:Porównanie architektur} Porównanie architektur}
+\end{table}
+
+Uwierzytelnianie to proces sprawdzania, czy osoba podająca się za kogoś naprawdę nią jest. Serwisy internetowe najczęściej uwierzytelniają użytkowników, prosząc ich o podanie adresu e-mail oraz hasła. Te dane są następnie wysyłane i porównywane z istniejącym wpisem, aby upewnić się, że żądanie jest autentyczne. 
+
+
+	\item{Basic Authentication} \\
+	Prawdopodobnie najprostszą techniką wykorzystywaną w celu uwierzytelnienia użytkowników jest Basic Authentication. Klient wysyła żądanie HTTP z nagłówkiem Authorization, który składa się ze słowa "Basic" oraz łańcucha znaków wygenerowanego na podstawie loginu i hasła, a następnie koduje się go za pomocą base64.
+	
+	\begin{verbatim}
+		Authorization: Basic TWF0ZXVzejp0b2plc3Rtb2plaGFzbG8xMjMh
+	\end{verbatim}	
+	
+	Niestety, prostota Basic Authentication wiąże się z wieloma ograniczeniami oraz mniejszym bezpieczeństwem względem innych technik uwierzytelniania.

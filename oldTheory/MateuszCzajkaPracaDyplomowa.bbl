@@ -1,0 +1,55 @@
+\begin{thebibliography}{10}
+
+\bibitem{MozillaHTTP}
+Developer mozilla - an overview of http.
+\newblock \url{https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview}.
+
+\bibitem{MozillaHTTPMethods}
+Developer mozilla - http request methods.
+\newblock \url{https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods}.
+
+\bibitem{MozillaHTTPStatuses}
+Developer mozilla - http response status codes.
+\newblock \url{https://developer.mozilla.org/en-US/docs/Web/HTTP/Status}.
+
+\bibitem{RoRDocs}
+Ruby on rails documentation.
+\newblock \url{https://guides.rubyonrails.org/}.
+
+\bibitem{SpringDocs}
+Spring documentation.
+\newblock
+  \url{https://docs.spring.io/spring-framework/docs/current/reference/html/}.
+
+\bibitem{WikipediaHTTPS}
+Wikipedia - htps.
+\newblock \url{https://en.wikipedia.org/wiki/HTTPS}.
+
+\bibitem{RESTfulWebServicesCookbook}
+Subbu Allamaraju.
+\newblock {\em RESTful Web Services Cookbook}.
+
+\bibitem{DesigningWebAPIs}
+Brenda~Jin Amir~Shevat and Saurabh Sahni.
+\newblock {\em Designing Web APIs: Building APIs That Developers Love}.
+
+\bibitem{ArchitecturalStyles}
+Roy~Thomas Fielding.
+\newblock Architectural styles and the design of network-based software
+  architectures, 2000.
+
+\bibitem{RESTfulWebServices}
+Sam~Ruby Leonard~Richardson.
+\newblock {\em RESTful Web Services}.
+
+\bibitem{RESTAPIDesignRulebook}
+Mark Masse.
+\newblock {\em REST API Design Rulebook}.
+
+\bibitem{BestPracticesWeb}
+Vinay Sahni.
+\newblock Best practices for designing a pragmatic restful api.
+\newblock
+  \url{https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api/}.
+
+\end{thebibliography}

@@ -1,0 +1,78 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{MozillaHTTP}
+Developer mozilla - an overview of http.
+\newblock \url{https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview}.
+\newblock Data dostępu: 16.01.2023.
+
+\bibitem{MozillaHTTPMethods}
+Developer mozilla - http request methods.
+\newblock \url{https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods}.
+\newblock Data dostępu: 16.01.2023.
+
+\bibitem{MozillaHTTPStatuses}
+Developer mozilla - http response status codes.
+\newblock \url{https://developer.mozilla.org/en-US/docs/Web/HTTP/Status}.
+\newblock Data dostępu: 16.01.2023.
+
+\bibitem{RoRDocs}
+Ruby on rails documentation v7.0.4.
+\newblock \url{https://guides.rubyonrails.org/}.
+\newblock Data dostępu: 16.01.2023.
+
+\bibitem{SpringDocs}
+Spring documentation v6.0.4.
+\newblock
+  \url{https://docs.spring.io/spring-framework/docs/current/reference/html/}.
+\newblock Data dostępu: 16.01.2023.
+
+\bibitem{WikipediaHTTPS}
+Wikipedia - htps.
+\newblock \url{https://en.wikipedia.org/wiki/HTTPS}.
+\newblock Data dostępu: 16.01.2023.
+
+\bibitem{RESTfulWebServicesCookbook}
+\textbf{Allamaraju, S.}
+\newblock 2010.
+\newblock RESTful Web Services Cookbook.
+\newblock O'Reilly.
+
+\bibitem{DesigningWebAPIs}
+\textbf{Amir~Shevat, B.~J., and S.~Sahni}.
+\newblock 2018.
+\newblock Designing Web APIs: Building APIs That Developers Love.
+\newblock O'Reilly.
+
+\bibitem{ArchitecturalStyles}
+\textbf{Fielding, R.~T.}
+\newblock 2000.
+\newblock Architectural Styles and the Design of Network-based Software
+  Architectures.
+\newblock University of California.
+
+\bibitem{RESTfulWebServices}
+\textbf{Leonard~Richardson, S.~R.}
+\newblock 2007.
+\newblock RESTful Web Services.
+\newblock O'Reilly.
+
+\bibitem{RESTAPIDesignRulebook}
+\textbf{Masse, M.}
+\newblock 2011.
+\newblock REST API Design Rulebook.
+\newblock O'Reilly.
+
+\bibitem{BestPracticesWeb}
+\textbf{Sahni, V.}
+\newblock Best practices for designing a pragmatic restful api.
+\newblock
+  \url{https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api/}.
+\newblock Data dostępu: 16.01.2023.
+
+\end{thebibliography}

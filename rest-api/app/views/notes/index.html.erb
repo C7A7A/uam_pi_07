@@ -1,0 +1,20 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Notes</h1>
+
+<div id="notes">
+  <% @notes.each do |note| %>
+    <%= render note %>
+    <p>
+      <%= link_to "Show company", [@company] %>
+    </p>
+    <p>
+      <%= link_to "Edit note", edit_company_note_path(@company, note) %>
+    </p>
+     <p>
+      <%= link_to "Delete note", [@company, note], method: :delete, data: { confirm: "Are you sure?" } %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New note", new_company_note_path(@company) %>

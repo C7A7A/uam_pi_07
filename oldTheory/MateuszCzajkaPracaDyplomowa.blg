@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: MateuszCzajkaPracaDyplomowa.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: conclusions.aux
+A level-1 auxiliary file: appendix1.aux
+The style file: plain.bst
+Database file #1: refs.bib
+Warning--entry type for "ArchitecturalStyles" isn't style-file defined
+--line 26 of file refs.bib
+Warning--entry type for "BestPracticesWeb" isn't style-file defined
+--line 35 of file refs.bib
+Warning--entry type for "SpringDocs" isn't style-file defined
+--line 42 of file refs.bib
+Warning--entry type for "RoRDocs" isn't style-file defined
+--line 54 of file refs.bib
+Warning--entry type for "MozillaHTTP" isn't style-file defined
+--line 66 of file refs.bib
+Warning--entry type for "MozillaHTTPMethods" isn't style-file defined
+--line 72 of file refs.bib
+Warning--entry type for "MozillaHTTPStatuses" isn't style-file defined
+--line 78 of file refs.bib
+Warning--entry type for "WikipediaHTTPS" isn't style-file defined
+--line 84 of file refs.bib
+Warning--to sort, need author or key in MozillaHTTP
+Warning--to sort, need author or key in WikipediaHTTPS
+Warning--to sort, need author or key in MozillaHTTPMethods
+Warning--to sort, need author or key in MozillaHTTPStatuses
+Name 1 in "Amir Shevat, Brenda Jin, and Saurabh Sahni" has a comma at the end for entry DesigningWebAPIs
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in RoRDocs
+Warning--to sort, need author or key in SpringDocs
+Warning--empty publisher in RESTfulWebServicesCookbook
+Warning--empty year in RESTfulWebServicesCookbook
+Name 1 in "Amir Shevat, Brenda Jin, and Saurabh Sahni" has a comma at the end for entry DesigningWebAPIs
+while executing---line 1090 of file plain.bst
+Warning--empty publisher in DesigningWebAPIs
+Warning--empty year in DesigningWebAPIs
+Warning--empty publisher in RESTfulWebServices
+Warning--empty year in RESTfulWebServices
+Warning--empty publisher in RESTAPIDesignRulebook
+Warning--empty year in RESTAPIDesignRulebook
+You've used 12 entries,
+            2118 wiz_defined-function locations,
+            553 strings with 5498 characters,
+and the built_in function-call counts, 2261 in all, are:
+= -- 193
+> -- 54
+< -- 0
++ -- 26
+- -- 14
+* -- 99
+:= -- 325
+add.period$ -- 25
+call.type$ -- 12
+change.case$ -- 39
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 104
+empty$ -- 271
+format.name$ -- 14
+if$ -- 508
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 8
+newline$ -- 52
+num.names$ -- 12
+pop$ -- 110
+preamble$ -- 1
+purify$ -- 31
+quote$ -- 0
+skip$ -- 84
+stack$ -- 0
+substring$ -- 60
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 40
+warning$ -- 14
+while$ -- 12
+width$ -- 14
+write$ -- 89
+(There were 2 error messages)
